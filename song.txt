@@ -2,13 +2,13 @@ verse-1.txt
 
 chorus-1.txt
 
-chorus-1.txt
+chorus-2.txt
 
 verse-2.txt
 
 verse-3.txt
 
-chorus-1.txt
+chorus-3.txt
 
 chorus-1.txt
 
