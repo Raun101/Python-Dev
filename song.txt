@@ -1,75 +1,21 @@
-Good people do bad things too
-Pretend they don't know, but they do
-It takes one to know your mind
-You and me we are one of a kind, it's true
-I like to feel my bones when they crash into my heart
-I like the taste of blood when you're tearing me apart
-I like to push you to the edge as long as you say you're mine
-Borderline (hey)
+verse-1.txt
 
-Tonight, for the rest of my life
-I'm gonna be stuck on you
-Hold on 'til I'm making it right
-No other love felt like you
-I can't give it up in this fight
-I cross my heart and hope to die
-Borderline
+chorus-1.txt
 
-Tonight, for the rest of my life
-I'm gonna be stuck on you
-Hold on 'til I'm making it right
-No other love felt like you
-I can't give it up in this fight
-I cross my heart and hope to die
-Borderline
+chorus-1.txt
 
-Lost in the magic with you
-A pretty disguise from the truth
-Truth is ugly, don't open your eyes
-I can change, I can change with just one more lie
+verse-2.txt
 
-I like to feel my bones when they crash into my heart
-I like the taste of blood when you're tearin' me apart
-I like to push you to the edge as long as you say you're mine
-Borderline (hey)
+verse-3.txt
 
-Tonight, for the rest of my life
-I'm gonna be stuck on you
-Hold on 'til I'm making it right
-No other love felt like you
-I can't give it up in this fight
-I cross my heart and hope to die
-Borderline
+chorus-1.txt
 
-Tonight, for the rest of my life
-I'm gonna be stuck on you
-Hold on 'til I'm making it right
-No other love felt like you
-I can't give it up in this fight
-I cross my heart and hope to die
-Borderline
+chorus-1.txt
 
-Borderline
-I like to push you to the edge as long as you say you're mine
-Borderline (borderline)
+verse-4.txt
 
-Tonight, for the rest of my life
-I'm gonna be stuck on you
-Hold on 'til I'm making it right
-No other love felt like you
-I can't give it up in this fight
-I cross my heart and hope to die (die)
-Borderline (borderline)
+chorus-2.txt
 
-Tonight, for the rest of my life
-I'm gonna be stuck on you
-Hold on 'til I'm making it right (make it, make it right)
-No other love felt like you
-I can't give it up in this fight
-I cross my heart and hope to die
-Borderline (borderline)
+chorus-3.txt
 
-I know I said that I could change (stuck on you)
-I don't know what to do about
-A man that's this beautiful (felt like you)
-I cross my heart and hope to die (hope to die)
+verse-5.txt
